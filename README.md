@@ -8,7 +8,7 @@
 
 <br/>
 
-# 🛒 Real-Time Product Reservation System
+# 🛒 Backend System to GET GIST
 
 A robust backend service for fetching gist from githubapi
 
